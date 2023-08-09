@@ -1,0 +1,8 @@
+-- Criar o Banco de Dados
+CREATE DATABASE loja;
+
+-- Selecionar o Banco de Dados
+USE loja;
+
+-- Apagar o Banco de Dados (Estrutura e Dados)
+-- DROP DATABASE loja;
