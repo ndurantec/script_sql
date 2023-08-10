@@ -6,3 +6,8 @@ USE loja;
 
 -- Apagar o Banco de Dados (Estrutura e Dados)
 -- DROP DATABASE loja;
+
+CREATE TABLE pessoa(
+	codigo int,
+	nome varchar(100)
+)
